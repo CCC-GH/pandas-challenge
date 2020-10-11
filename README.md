@@ -7,7 +7,7 @@ Jupyter Notebook: https://github.com/CCC-GH/pandas-challenge/blob/main/PyCitySch
 
 Observable trends based on the data:
  1. A higher budget per student isn't directly proportional to better student performance
- 2. Large-sized schools don't perform as well as small/medium-sized schools 
+ 2. Large-sized schools don't perform as well in Math as small/medium-sized schools 
 
 Report includes each of the following:
 
