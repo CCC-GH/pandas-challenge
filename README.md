@@ -4,10 +4,12 @@
 This assignment will analyze the district-wide standardized test results. Within Resources folder, every student's math and reading scores, as well as various information on the schools they attend. This script will aggregate the data to and showcase obvious trends in school performance.
 
 Jupyter Notebook: https://github.com/CCC-GH/pandas-challenge/blob/main/PyCitySchools/pandas-challenge.ipynb
+ (note: report table output renders properly in native, Jupyter Notebook)
 
 Observable trends based on the data:
- 1. A higher budget per student isn't directly proportional to better student performance
- 2. Large-sized schools don't perform as well in Math as small/medium-sized schools 
+ 1. Small and Medium sized schools perfom better Large sized schools 
+ 2. Charter schools perform better than District schools
+ 3. Spending more per student doesn't appear to mprove scores (not directly proportional)
 
 Report includes each of the following:
 
